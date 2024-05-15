@@ -10,7 +10,7 @@ Explorando as IAs generativas mais acessadas em 2023 e como elas estão sendo ap
 Copilot da Microsoft, Canva.
 
 ## 🧐 Processo de Criação
-Primeiro passo foi pedir ao Copilot da Microsoft que me sugerisse alguns temas para projeto sobre IAs generativas. Depois no Canva a partir de um modelo de e-baook criar uma e-book de 6 páginas com artes futurísticas que representa bem a Inteligência Artificial.
+Primeiro passo foi pedir ao Copilot da Microsoft que me sugerisse alguns temas para projeto sobre IAs generativas. Depois no Canva a partir de um modelo criar um e-book de 6 páginas com artes futurísticas que representam bem a Inteligência Artificial.
 
 ## 🚀 Resultados
 Rico conteúdo sobre Tendências e aplicações emergentes das IAs Generativas.
