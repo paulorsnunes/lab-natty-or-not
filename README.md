@@ -19,8 +19,7 @@ Rico conteúdo sobre Tendências e aplicações emergentes das IAs Generativas.
 “A Inteligência Artificial será a maior conquista da humanidade. Mas também pode ser a última.” – Stephen Hawking, renomado físico teórico.
 
 ### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
+- [E-BOOK](Ebook 5 Tendências e aplicações emergentes por Paulo Nunes.pdf)
 
 ## Links Interessantes
 https://www.microsoft.com/pt-br/microsoft-copilot
